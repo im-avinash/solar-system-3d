@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#scene-container {
+  width: 100%;
+  height: 80vh;
+}
+
+#controls, #buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin: 10px;
+}
+
+label {
+  font-size: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: inherit;
+}
+
+button {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+body.light {
+  background-color: #f0f0f0;
+  color: #000;
+}
+
+body.light label {
+  color: #000;
+}
