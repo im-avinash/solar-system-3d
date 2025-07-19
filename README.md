@@ -28,3 +28,8 @@ solar-system-3d/
 ## 🛠 Built With
 - [Three.js](https://threejs.org/)
 - HTML, CSS, JavaScript
+
+##Live Demo
+👉 Hosted on **GitHub Pages**:  
+ [🔗Solar System 3D](https://im-avinash.github.io/solar-system-3d/)
+
