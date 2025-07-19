@@ -28,6 +28,3 @@ solar-system-3d/
 ## 🛠 Built With
 - [Three.js](https://threejs.org/)
 - HTML, CSS, JavaScript
-
-## 📹 Demo Video
-Add your demo recording to the folder before submission.
